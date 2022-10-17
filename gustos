@@ -1,0 +1,13 @@
+string name = "Aarón";
+Console.WriteLine(Escribe tus gustos: ");
+Console.ReadLine();
+if 
+{
+   (tus gustos son musica,salir y cine = a divertido);
+}  
+
+else 
+{
+   (tus gustos son libros,arte y cafe = a inteligente);
+
+}
